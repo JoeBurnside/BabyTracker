@@ -1,0 +1,19 @@
+\\nasstudusers\6$\n0451564\visual studio 2013\Projects\NewbornApp\NewbornApp\bin\Debug\NewbornApp.exe.config
+G:\VisualStudio\NewbornApp\NewbornApp\bin\Debug\NewbornApp.exe.config
+E:\VisualStudio\NewbornApp\NewbornApp\bin\Debug\NewbornApp.exe.config
+G:\VisualStudio\NewbornApp\NewbornApp\bin\Debug\HealthApp.mdf
+G:\VisualStudio\NewbornApp\NewbornApp\bin\Debug\HealthApp_log.ldf
+G:\VisualStudio\NewbornApp\NewbornApp\bin\Debug\NewbornApp.exe
+G:\VisualStudio\NewbornApp\NewbornApp\bin\Debug\NewbornApp.pdb
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.csprojResolveAssemblyReference.cache
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.ChartsMenu.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.ChildDetails.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.ChildSelect.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.DailyChecks.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.MainMenu.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.Properties.Resources.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.WeeklyChecks.resources
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.csproj.GenerateResource.Cache
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.exe
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.pdb
+G:\VisualStudio\NewbornApp\NewbornApp\obj\Debug\NewbornApp.GrowthChart.resources
